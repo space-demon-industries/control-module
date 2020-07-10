@@ -1,3 +1,5 @@
+# maintain margin of gr 1 for smoother round housing
+
 def destroy(x,y){
 
 }
